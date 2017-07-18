@@ -21,5 +21,13 @@ chainerに関してもろもろまとめる
 
 ## pythonのバージョンに関して
 ```
-一旦、2.7.13を前提に諸々進めていく
+3.6.0を前提に諸々進めていく
+```
+
+## 環境構築
+```
+cd deepleaning  #project_root
+pyenv virtualenv 3.6.0 dnn_tutorial
+pyenv local dnn_tutorial
+pip install -r requirements.txt   #install modules
 ```
