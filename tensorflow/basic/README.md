@@ -6,6 +6,18 @@ Tensorflowの使い方を把握するに当たって参考になりそうな情�
 のjupyterコンソール上での実行に関してまとめた。
 ```
 
+## 各ファイルの概要
+```
+・level1_How_to_Use_TF
+->
+
+・level2_MNIST_softmax
+->
+
+・level3_MNIST_DNN
+->
+```
+
 ## 参考
 ```
 https://www.tensorflow.org/get_started/
